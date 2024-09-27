@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dao Tien Dat</h1>
 <h3 align="center">A student who is studying information technology at Hanoi University of Science and Technology</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://imarticus.org/blog/wp-content/uploads/2021/12/gew.gif">
+<img align = "right" alt = "Coding" width = "200" src = "https://imarticus.org/blog/wp-content/uploads/2021/12/gew.gif">
 
 - 🌱 I’m currently learning **AI, OOP, Python, Cpp**
 
